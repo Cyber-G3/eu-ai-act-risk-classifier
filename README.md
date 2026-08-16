@@ -6,7 +6,7 @@
 
 Professional AI governance and compliance support: [SpectraSec](https://www.spectrasec.eu/).
 
-A transparent preliminary screening tool for AI providers, deployers, importers and distributors. It evaluates user-supplied facts against prohibited-practice, high-risk and transparency routes under Regulation (EU) 2024/1689.
+A professional, transparent preliminary classification tool for AI providers, deployers, importers, distributors, authorised representatives and product manufacturers. Version 1.0 uses a seven-step decision path and explains why each regulatory route was triggered.
 
 ## Coverage
 
@@ -15,9 +15,15 @@ A transparent preliminary screening tool for AI providers, deployers, importers 
 - Article 6(2) and Annex III use-case route.
 - Article 6(3) potential exception prompt.
 - Article 50 transparency prompts.
-- Explained result, uncertainty and next actions.
+- Territorial-scope and AI-system-definition screens.
+- Operator-role and GPAI screens.
+- Explained result, decision triggers, uncertainty and initial obligations.
+- Confidence indicator and 7/30/90-day action plan.
+- Local save plus Markdown, JSON and print/PDF exports.
 - English and Spanish interface.
 - No account, backend or analytics.
+
+See [the classification methodology](METHODOLOGY.md) and [release history](CHANGELOG.md).
 
 ## Important limitation
 
@@ -25,7 +31,7 @@ This is preliminary decision support, not a legal classification or legal advice
 
 ## Run locally
 
-Serve this directory with any static web server, for example `python -m http.server 8080`.
+Serve this directory with any static web server, for example `python -m http.server 8080`. Run the deterministic classification tests with `npm test`.
 
 ## Sources
 
