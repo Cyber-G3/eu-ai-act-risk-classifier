@@ -1,1 +1,1 @@
-{"name":"eu-ai-act-risk-classifier","version":"1.0.0","private":true,"type":"module","scripts":{"test":"node --test tests/*.test.mjs","check":"node --check app-v1.js && node --check core.js"}}
+{"name":"eu-ai-act-risk-classifier","version":"1.1.0","private":true,"type":"module","scripts":{"test":"node --test tests/*.test.mjs","check":"node --check app-v1.js && node --check core.js && node --check workbench-v11.js && node --check workbench-core.js"}}
