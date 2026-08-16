@@ -6,7 +6,7 @@
 
 Professional AI governance and compliance support: [SpectraSec](https://www.spectrasec.eu/).
 
-A professional, transparent preliminary classification tool for AI providers, deployers, importers, distributors, authorised representatives and product manufacturers. Version 1.0 uses a seven-step decision path and explains why each regulatory route was triggered.
+A professional, transparent preliminary classification tool for AI providers, deployers, importers, distributors, authorised representatives and product manufacturers. Version 1.1 adds an assurance workbench around the seven-step decision path and explains why each regulatory route was triggered.
 
 ## Coverage
 

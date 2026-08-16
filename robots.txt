@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cyber-g3.github.io/eu-ai-act-risk-classifier/sitemap.xml
