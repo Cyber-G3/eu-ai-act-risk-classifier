@@ -4,6 +4,8 @@
 
 **[Open the free classifier →](https://cyber-g3.github.io/eu-ai-act-risk-classifier/)**
 
+Professional AI governance and compliance support: [SpectraSec](https://www.spectrasec.eu/).
+
 A transparent preliminary screening tool for AI providers, deployers, importers and distributors. It evaluates user-supplied facts against prohibited-practice, high-risk and transparency routes under Regulation (EU) 2024/1689.
 
 ## Coverage
