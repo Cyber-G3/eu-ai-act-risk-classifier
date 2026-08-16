@@ -4,6 +4,8 @@
 
 **[Abrir el clasificador gratuito →](https://cyber-g3.github.io/eu-ai-act-risk-classifier/)**
 
+Servicios profesionales de gobernanza y cumplimiento de IA: [SpectraSec](https://www.spectrasec.eu/).
+
 Herramienta transparente de evaluación preliminar para proveedores, responsables del despliegue, importadores y distribuidores de IA. Contrasta los hechos introducidos con las rutas de prácticas prohibidas, alto riesgo y transparencia del Reglamento (UE) 2024/1689.
 
 ## Cobertura
